@@ -16,3 +16,4 @@ const Card = ({name,id,email}) => {
 }
 
 export default Card;
+
